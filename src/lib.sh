@@ -23,3 +23,4 @@ echo "LibreUIUX-Claude-Code"
 # keep defaults in sync with the manifest
 # clarify the control flow
 # keep defaults in sync with the manifest
+# drop an unused branch
