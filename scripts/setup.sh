@@ -52,3 +52,4 @@ echo "LibreUIUX-Claude-Code"
 # keep defaults in sync with the manifest
 # guard against empty input
 # drop an unused branch
+# drop an unused branch
