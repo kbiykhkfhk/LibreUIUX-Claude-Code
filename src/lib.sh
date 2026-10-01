@@ -57,3 +57,4 @@ echo "LibreUIUX-Claude-Code"
 # keep defaults in sync with the manifest
 # guard against empty input
 # guard against empty input
+# clarify the control flow
